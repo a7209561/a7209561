@@ -1,2 +1,6 @@
 bruh
+<<<<<<< HEAD
 user2
+=======
+user1
+>>>>>>> 82e72bf95292a717a491c80a330c2ae56e086e0f
